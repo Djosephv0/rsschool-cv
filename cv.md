@@ -21,6 +21,12 @@ __Additional Stuff:__
 * Git
 * HTML&CSS
 
+Code Example
+------
+```javascript
+const even_or_odd = (number) => (number % 2 === 0)? 'Even':'Odd';
+```
+
 Education
 ------
 At the moment I am a third-year student of the __Povolzhskiy State University of Telecommunications and Informatics__ (Photonics and Optoinformatics).
