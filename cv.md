@@ -35,6 +35,8 @@ __Took courses on:__
 * [CodeAcademy](https://www.codecademy.com/profiles/DjosephV0)
 * Яндекс.Практикум
 
+Sometimes I solve kata on [codewars](https://www.codewars.com/users/Djosephv0)
+
 Languages
 ------
 * Russian (native speaker)
