@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: #ececec;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    color: #ffae00;
+    text-decoration: none;
+}
+
+section {
+    width: 600px;
+    padding-top: 20px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 140%;
+    color: #21242ca3;
+}
+
+section ul li {
+    padding-left: 20px;
+    margin-top: 10px;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 100%;
+    color: #1162DB;
+}
+
+span {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 100%;
+    color:#21242C;
+}
+
+.container {
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+    height: 100vh;
+    font-family: Fira Sans, sans-serif;
+}
+
+.resume-left {
+    width: 30%;
+    padding-left: 80px;
+    background-color: #1162DB;
+    height: 100vh;
+}
+
+.resume-right {
+    width: 70%;
+    padding-left: 80px;
+    background-color: #fff;
+    height: 100vh;
+}
+
+img {
+    border-radius: 100%;
+}
+
+.resume-photo {
+    padding-top: 150px;
+    border: 1px solid #1162DB;
+}
+
+.contacts-list {
+    padding-top: 54px;
+}
+
+.contacts-item {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    margin-bottom: 5px;
+    color: #fff;
+}
+
+h1 {
+    color: #fff;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 90%;
+}
